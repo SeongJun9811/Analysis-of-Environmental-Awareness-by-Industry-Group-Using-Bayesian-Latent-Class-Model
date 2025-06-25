@@ -1,4 +1,4 @@
-[프로젝트명] # Analysis-of-Environmental-Awareness-by-Industry-Group-Using-Bayesian-Latent-Class-Model
+[프로젝트명] Analysis of Environmental Awareness by Industry Group Using Bayesian Latent Class Model
 
 [기간] 2024.05 ~ 2024.07
 
